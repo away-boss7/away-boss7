@@ -8,3 +8,4 @@
 away-boss7/away-boss7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+my life is bom bom then do do doooooo
